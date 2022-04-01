@@ -1,0 +1,6 @@
+They used 3 methods to break audio captchas MFCC, PLP, RASTA-PLP . 
+** They took 1000 audio captchas trained 900 and 100 for testing 
+** they provide new captchas that cannt be broken by current ASR
+** Provides 70% accuracy to the user. they used popular phrases instead of distorted digits sound as they claim identifying distorted phrases are much easier for human
+ but difficult for the machine
+** they chose audio samples that are currently not being able to process by ASR and also they mixed radio conversations from old times.
